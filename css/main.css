@@ -473,14 +473,17 @@ footer {
 }
 
 .footer-container {
+  width: 100%;
+  max-width: 1310px;
   display: flex;
   align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
   padding: 48px 165px;
 }
 
 .footer-logo {
   margin-bottom: 25px;
-  margin-right: 125px;
 }
 
 .footer-royhat {
@@ -502,6 +505,19 @@ footer {
   font-weight: 600;
   line-height: 28px;
   color: #fff;
+}
+
+.footer-div-link {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-p-text {
+  font-family: "Livvic";
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 25px;
+  color: rgba(255, 255, 255, 0.8);
 }
 
 .main-1-container {

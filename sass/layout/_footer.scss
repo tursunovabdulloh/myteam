@@ -2,14 +2,16 @@ footer {
   background-color: #002529;
 }
 .footer-container {
+  width: 100%;
+  max-width: 1310px;
   display: flex;
   align-items: center;
-  //   justify-content: space-between;
+  justify-content: space-between;
+  margin: 0 auto;
   padding: 48px 165px;
 }
 .footer-logo {
   margin-bottom: 25px;
-  margin-right: 125px;
 }
 .footer-royhat {
   display: flex;
@@ -30,7 +32,18 @@ footer {
   line-height: 28px;
   color: #fff;
 }
-.footer-nav-item {
+.footer-div-link {
+  display: flex;
+  flex-direction: column;
 }
-.footer-nav-link {
+.footer-link-icon {
+}
+.footer-link_text {
+}
+.footer-p-text {
+  font-family: "Livvic";
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 25px;
+  color: rgb(255, 255, 255, 80%);
 }
