@@ -1,12 +1,34 @@
 footer {
-  margin-top: 1370px;
+  margin-bottom: 2000px;
   background-color: #002529;
 }
-.footer-logo {
+.footer-container {
+  display: flex;
+  align-items: center;
+  //   justify-content: space-between;
+  padding: 48px 165px;
 }
-.footer-nav {
+.footer-logo {
+  margin-bottom: 25px;
+  margin-right: 125px;
+}
+.footer-royhat {
+  //   display: flex;
+  //   flex-direction: column;
+  font-family: "Livvic";
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 25px;
+  color: rgb(255, 255, 255, 80%);
 }
 .footer-nav-list {
+  display: flex;
+  gap: 40px;
+  font-family: "Livvic";
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 28px;
+  color: #fff;
 }
 .footer-nav-item {
 }
