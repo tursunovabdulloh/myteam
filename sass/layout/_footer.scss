@@ -1,5 +1,5 @@
 footer {
-  margin-bottom: 2000px;
+  margin-top: 1300px;
   background-color: #002529;
 }
 .footer-container {
@@ -13,8 +13,9 @@ footer {
   margin-right: 125px;
 }
 .footer-royhat {
-  //   display: flex;
-  //   flex-direction: column;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
   font-family: "Livvic";
   font-size: 15px;
   font-weight: 600;
