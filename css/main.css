@@ -822,6 +822,8 @@ footer {
 }
 
 .hero-3-wrapper {
+  width: 100%;
+  max-width: 1600px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1492,4 +1494,13 @@ footer {
 
 .input:hover {
   background-color: #f67e7e;
+}
+
+.footer-p-text-contact:hover {
+  color: aqua;
+}
+
+.footer-text-contact:hover {
+  cursor: pointer;
+  color: red;
 }/*# sourceMappingURL=main.css.map */
