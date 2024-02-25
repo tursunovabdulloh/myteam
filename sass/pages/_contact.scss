@@ -1,0 +1,213 @@
+.header-contact-container {
+  display: flex;
+  align-items: center;
+  padding-top: 73px;
+  margin-bottom: 120px;
+}
+.header-contact-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+.logo-contact {
+  margin-right: 80px;
+}
+.nav-list-contact {
+  display: flex;
+  gap: 40px;
+}
+.nav-link-contact {
+  font-family: "Livvic";
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 28px;
+  color: #fff;
+}
+.header-btn-contact {
+  font-family: "Livvic";
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 28px;
+  color: #fff;
+  border: 2px solid #fff;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-inline: 35px;
+  background-color: transparent;
+  border-radius: 22px;
+}
+.header-btn-contact:hover {
+  color: #004047;
+  background-color: #fff;
+}
+.margin {
+  margin-right: 577px;
+}
+.nav-link-contact:hover {
+  color: #f67e7e;
+}
+.nav-link-contact:active {
+  color: blue;
+}
+// ================================================================================= //
+// main //
+.contact-main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  gap: 30px;
+}
+.contact-h2 {
+  font-family: "Livvic";
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 100px;
+  color: #fff;
+}
+.contact-p {
+  font-family: "Livvic";
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 48px;
+  color: #f67e7e;
+  margin-bottom: 32px;
+}
+.contact-wrapper-1 {
+  display: flex;
+}
+.wraaper-1 {
+  display: flex;
+  flex-direction: column;
+  margin-right: 120px;
+}
+.img-1-teks {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+.teks {
+  font-family: "Livvic";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 28px;
+  color: #fff;
+}
+.img-2-teks {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+.img-3-teks {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 24px;
+}
+.input {
+  border: 0;
+  background-color: inherit;
+  font-family: "Livvic";
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 25px;
+  color: rgb(255, 255, 255, 80%);
+  outline: 0;
+}
+.text-area {
+  height: 84px;
+  outline: 0;
+  border: 0;
+  background-color: inherit;
+}
+.input-hr {
+  width: 540px;
+  height: 1px;
+  background-color: #fff;
+  border: 0;
+}
+.submit-btn {
+  font-family: "Livvic";
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 28px;
+  padding-top: 9px;
+  padding-bottom: 11px;
+  padding-left: 32px;
+  padding-right: 32px;
+  display: flex;
+  align-self: start;
+  border-radius: 24px;
+  border: 0;
+  color: #004047;
+}
+.submit-btn:hover {
+  background-color: #004047;
+  color: #fff;
+  border: 1px solid #fff;
+}
+.submit-btn:active {
+  color: blueviolet;
+}
+//======================================//
+.footer-contact {
+  background-color: #002529;
+}
+.footer-container-contact {
+  width: 100%;
+  max-width: 1310px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 48px 165px;
+}
+.footer-logo-contact {
+  margin-bottom: 25px;
+}
+.footer-royhat-contact {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-family: "Livvic";
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 25px;
+  color: rgb(255, 255, 255, 80%);
+}
+.footer-nav-list-contact {
+  display: flex;
+  gap: 40px;
+  font-family: "Livvic";
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 28px;
+  color: #fff;
+}
+.footer-div-link-contact {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  gap: 50px;
+}
+.footer-p-text-contact {
+  font-family: "Livvic";
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 25px;
+  color: rgb(255, 255, 255, 80%);
+}
+.footer-link-icon-contact {
+  display: flex;
+  gap: 16px;
+}
+.input:hover {
+  background-color: #f67e7e;
+}

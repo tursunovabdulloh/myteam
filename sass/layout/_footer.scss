@@ -24,6 +24,18 @@ footer {
   line-height: 25px;
   color: rgb(255, 255, 255, 80%);
 }
+.footer-nav-link:hover {
+  color: #f67e7e;
+}
+.footer-text:hover {
+  color: #954888;
+}
+.footer-text:active {
+  color: green;
+}
+.footer-nav-link:active {
+  color: chocolate;
+}
 .footer-nav-list {
   display: flex;
   gap: 40px;
@@ -46,7 +58,13 @@ footer {
   line-height: 25px;
   color: rgb(255, 255, 255, 80%);
 }
+.footer-p-text:hover {
+  color: #f67e7e;
+}
 .footer-link-icon {
   display: flex;
   gap: 16px;
+}
+.footer-p-text:active {
+  color: cadetblue;
 }
