@@ -1,0 +1,295 @@
+.header-about-container {
+  display: flex;
+  align-items: center;
+  padding-top: 73px;
+  margin-bottom: 120px;
+}
+.header-about-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+.logo-about {
+  margin-right: 80px;
+}
+.nav-list-about {
+  display: flex;
+  gap: 40px;
+}
+.nav-link-about {
+  font-family: "Livvic";
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 28px;
+  color: #fff;
+}
+.header-btn-about {
+  font-family: "Livvic";
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 28px;
+  color: #fff;
+  border: 2px solid #fff;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-inline: 35px;
+  background-color: transparent;
+  border-radius: 22px;
+}
+.margin {
+  margin-right: 577px;
+}
+// "==============================================="
+
+.a-main-container {
+  width: 100%;
+  max-width: 1110px;
+}
+.a-main-container {
+  display: flex;
+  gap: 200px;
+  margin-bottom: 120px;
+}
+.about-hero-1 {
+  padding-bottom: 140px;
+}
+.a-hero-title {
+  font-family: "Livvic";
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 105px;
+  color: #fff;
+}
+.a-main-div2 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+.a-main-hr {
+  width: 50px;
+  height: 4px;
+  background-color: #f67e7e;
+  border: 0;
+}
+.a-main-p {
+  width: 100%;
+  max-width: 730px;
+  font-family: "Livvic";
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 28px;
+  color: #fff;
+}
+.about-img1 {
+  position: absolute;
+  right: 1px;
+  top: 455px;
+}
+.a-hero-2-container {
+  width: 100%;
+  max-width: 1500px;
+  padding: 140px 165px;
+}
+.about-hero-2 {
+  background-color: #004047;
+}
+.a-hero-2-wrapper {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 76px;
+}
+.a-hero-2-title {
+  text-align: center;
+  margin-bottom: 64px;
+  font-family: Livvic;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 48px;
+  color: #fff;
+}
+.box-1-qator {
+  display: flex;
+  gap: 30px;
+}
+.box-2-qator {
+  display: flex;
+  gap: 30px;
+}
+.hero-2-box {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+  width: 350px;
+  background-color: #012f34;
+}
+.box-1-deck {
+  display: flex;
+  flex-direction: column;
+}
+.box-1-h2 {
+  text-align: center;
+  font-family: "Livvic";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 28px;
+  text-align: center;
+  color: #79c8c7;
+}
+.box-1-p {
+  text-align: center;
+  font-family: "Livvic";
+  font-size: 15px;
+  font-style: italic;
+  font-weight: 500;
+  line-height: 25px;
+  text-align: center;
+  color: #fff;
+}
+.hero-2-box-wrapperr {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 32px 24px;
+}
+.hero-2-box2-wrapperr {
+  display: flex;
+  flex-direction: column;
+  padding: 32px 24px;
+}
+.hero-2-box3-wrapperr {
+  display: flex;
+  flex-direction: column;
+  padding: 32px 24px;
+}
+.svg-2-box-wrapperr {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 25px;
+  padding-top: 60px;
+  padding-inline: 24px;
+  margin-bottom: 58px;
+}
+.group-2-img {
+  margin-bottom: -100px;
+}
+.svg-img {
+  display: flex;
+  gap: 16px;
+}
+.group-plus {
+  margin-bottom: -28px;
+}
+.hero-3 {
+  background-color: #f67e7e;
+}
+.hero-3-btn {
+  font-family: "Livvic";
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 28px;
+  color: #012f34;
+  border: 2px solid #012f34;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-inline: 35px;
+  background-color: transparent;
+  border-radius: 22px;
+}
+.hero-3-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 200px;
+  padding-top: 76px;
+  padding-bottom: 76px;
+  padding-left: 263px;
+  padding-right: 260px;
+}
+.hero-3-h2 {
+  font-family: "Livvic";
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 48px;
+}
+.hero-3-img {
+  bottom: 0;
+}
+.about-hero-4-wrapper {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 140px;
+  gap: 64px;
+  margin-bottom: 140px;
+}
+.about-hero-4-svg {
+  display: flex;
+  gap: 80px;
+}
+.about-4-wrapper-h2 {
+  font-family: "Livvic";
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 48px;
+  text-align: center;
+  color: #fff;
+}
+// =============================================//
+// footerstillar//
+.footer-about {
+  margin-top: 1490px;
+  background-color: #002529;
+}
+.footer-container-about {
+  width: 100%;
+  max-width: 1310px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 48px 165px;
+}
+.footer-logo {
+  margin-bottom: 25px;
+}
+.footer-royhat {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-family: "Livvic";
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 25px;
+  color: rgb(255, 255, 255, 80%);
+}
+.footer-nav-list {
+  display: flex;
+  gap: 40px;
+  font-family: "Livvic";
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 28px;
+  color: #fff;
+}
+.footer-div-link {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+}
+.footer-p-text {
+  font-family: "Livvic";
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 25px;
+  color: rgb(255, 255, 255, 80%);
+}
+.footer-link-icon {
+  display: flex;
+  gap: 16px;
+}
