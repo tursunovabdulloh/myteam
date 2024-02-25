@@ -1503,4 +1503,12 @@ footer {
 .footer-text-contact:hover {
   cursor: pointer;
   color: red;
+}
+
+.footer-text-contact:active {
+  color: chocolate;
+}
+
+.footer-p-text-contact:active {
+  color: darkorange;
 }/*# sourceMappingURL=main.css.map */
