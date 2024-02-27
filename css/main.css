@@ -573,6 +573,11 @@ footer {
   margin: 0 auto;
   gap: 60px;
 }
+@media (max-width: 900px) {
+  .main-1-container .main-1-container {
+    display: none;
+  }
+}
 
 .main-1-img {
   margin-right: 65px;
