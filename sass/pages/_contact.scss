@@ -157,7 +157,7 @@
   color: blueviolet;
 }
 //======================================//
-.footer-contact {
+.contact-footer {
   background-color: #002529;
 }
 .footer-container-contact {
@@ -190,6 +190,14 @@
   font-weight: 600;
   line-height: 28px;
   color: #fff;
+}
+.footer-nav-link-contact:hover {
+  color: chocolate;
+  font-weight: 900;
+}
+.footer-nav-link-contact::after {
+  content: "";
+  rotate: 90deg;
 }
 .footer-div-link-contact {
   display: flex;
