@@ -482,7 +482,7 @@ a {
 }
 
 .footer-home {
-  margin-top: 988px;
+  margin-top: 1350px;
   background-color: #002529;
 }
 
@@ -558,7 +558,7 @@ a {
 
 .footer-link-icon {
   display: flex;
-  gap: 16px;
+  gap: 20px;
 }
 
 .footer-p-text:active {
@@ -1325,6 +1325,7 @@ a {
   justify-content: center;
   margin: 0 auto;
   gap: 30px;
+  margin-bottom: 120px;
 }
 
 .contact-h2 {
