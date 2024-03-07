@@ -1,8 +1,18 @@
 .header-container {
   display: flex;
   align-items: center;
-  padding-top: 73px;
-  margin-bottom: 130px;
+  // padding-top: 73px;
+  @media screen and (max-width: 1050px) {
+    &.container {
+      width: 100%;
+      max-width: 689px;
+      margin: 0 auto;
+    }
+    .margin {
+      margin: 0 auto;
+      margin-right: 120px;
+    }
+  }
 }
 .header-wrapper {
   display: flex;
@@ -50,4 +60,3 @@
 .margin {
   margin-right: 577px;
 }
-// ===============================================================//
